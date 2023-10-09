@@ -19,6 +19,7 @@ Hello, World! I'm Parampreet, an enthusiastic MSCS Candidate from Clemson Univer
 ## 🚀 Highlighted Projects
 **Movie Recommender System**: Personalized movie recommendation engine with a focus on Matrix Factorization techniques and tackling cold start problems.<br>
 **Continuous Affect Recognition**: Deep learning model predicting emotional metrics in videos through joint training of audio and video features.<br>
+**Car Value Prediction Model**: As Team Lead, directed the development of a model predicting second-hand car values, achieving a profitability surge by 4%. The model, implemented with XGBoost, attained a 90%+ R-squared score and was successfully deployed to production on Amazon AWS EC2.
 
 
 ## 🌐 Socials:
