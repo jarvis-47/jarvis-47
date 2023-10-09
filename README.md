@@ -1,5 +1,24 @@
-# 💫 About Me:
-👋Hello! I'm Parampreet Singh, a Computer Science master's student at Clemson University with a passion for data science, data analysis, and machine learning. I'm excited about leveraging data to solve real-world problems and create meaningful insights.<br><br>🌱What I Bring to the Table:<br><br>• Strong academic background in computer science.<br>• 2 years of professional experience in Automotive Product Planning.<br>• I'm an AWS Certified Machine Learning Specialist<br>• Enthusiasm for data-related projects, including data science, artificial intelligence and machine learning.<br>• Dedication to collaborative work and contributing to open-source initiatives.<br><br>🏎️Fun Fact: I'm also a devoted Formula 1 enthusiast, always up for a conversation about the latest races and teams!<br><br>📫How to Connect: You can reach out to me anytime via email at paramps@g.clemson.edu. I'm open to discussing exciting data projects, collaborations, or just chatting about technology and Formula 1.<br><br>✨I'm eager to connect with like-minded individuals and explore the fascinating world of data. Let's work together to turn data into actionable insights!
+# PARAMPREET SINGH 🚀 Data Scientist | MSCS Candidate
+📍 Location: Clemson, SC, USA
+🔗 LinkedIn: parampreetsingh12598
+💼 GitHub: jarvis-47
+📩 Email: paramps@g.clemson.edu
+
+## 🔍 Overview
+Hello, World! I'm Parampreet, an enthusiastic MSCS Candidate from Clemson University with a burning passion for machine learning and data analytics. Armed with diverse tech stacks and the knack to convert raw data into informed strategies, I thrive on solving challenges and pushing the boundaries of what's possible. Looking to harness the power of data to innovate and revolutionize the digital landscape.
+
+## 🎓 Education
+Clemson University: Pursuing Master's in Computer Science with a keen focus on Applied Data Science, Artificial Intelligence, and Deep Learning.
+Punjab Engineering College: B.Tech in Mechanical Engineering. Led capstone project on Multi-Sensor Fusion for Adaptive Cruise Control.
+
+## 💼 Professional Experience
+IT Consultant at Clemson University: Championed IT asset management database migrations and spearheaded IT asset inventory procedures.
+Assistant Manager, R&D at Maruti Suzuki India Ltd: Drove business strategies, conducted market research, and led the development of a second-hand car value prediction model.
+Research Intern at Mahindra Research Valley: Innovated in power loss distribution in automotive rear axles, achieving notable fuel efficiency gains.
+
+## 🚀 Highlighted Projects
+Movie Recommender System: Personalized movie recommendation engine with a focus on Matrix Factorization techniques and tackling cold start problems.
+Continuous Affect Recognition: Deep learning model predicting emotional metrics in videos through joint training of audio and video features.
 
 
 ## 🌐 Socials:
