@@ -26,6 +26,6 @@ Hello, World! I'm Parampreet, an enthusiastic MSCS Candidate from Clemson Univer
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_singh_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/parampreetsingh12598) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,matlab,mysql,mongodb,github,py,r,C,C++,git,tensorflow,pytorch,vim,vscode,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,matlab,mysql,mongodb,github,py,r,c,c++,git,tensorflow,pytorch,vim,vscode,sqlite)](https://skillicons.dev)
 ---
 [![](https://visitcount.itsvg.in/api?id=jarvis-47&icon=0&color=0)](https://visitcount.itsvg.in)
