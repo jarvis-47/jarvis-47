@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)" width="350" height="350"/>
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="350" height="350"/>
 </div>
 
 # PARAMPREET SINGH 🚀 Data Scientist | MSCS Candidate
