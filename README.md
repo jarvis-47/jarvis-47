@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jarvis-47/jarvis-47/blob/main/Screenshot%202023-10-10%20015101.png" width="350" height="350"/>
+  <img src="https://github.com/jarvis-47/jarvis-47/blob/main/DisplayPic.png?raw=true" width="300" height="300"/>
 </div>
 
 # PARAMPREET SINGH 🚀 Data Scientist | MSCS Candidate
@@ -12,7 +12,7 @@
 Hello, World! I'm Parampreet, an enthusiastic MSCS Candidate from Clemson University with a burning passion for machine learning and data analytics. Armed with diverse tech stacks and the knack to convert raw data into informed strategies, I thrive on solving challenges and pushing the boundaries of what's possible. Looking to harness the power of data to innovate and revolutionize the digital landscape.
 
 ## 🎓 Education
-**Clemson University**: Pursuing Master's in Computer Science with a keen focus on Applied Data Science, Artificial Intelligence, and Deep Learning.<br>
+**Clemson University**: Pursuing Master's in Computer Science with a keen focus on Statistics, Machine Learning and Artificial Intelligence.<br>
 **Punjab Engineering College**: B.Tech in Mechanical Engineering. Led capstone project on Multi-Sensor Fusion for Adaptive Cruise Control.<br>
 
 ## 💼 Professional Experience
