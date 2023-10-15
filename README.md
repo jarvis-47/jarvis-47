@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jarvis-47/jarvis-47/blob/main/DisplayPic.png?raw=true" width="300" height="250"/>
+  <img src="https://github.com/jarvis-47/jarvis-47/blob/main/DisplayPic.png?raw=true" width="300" height="200"/>
 </div>
 
 # PARAMPREET SINGH 🚀 Data Scientist | MSCS Candidate
