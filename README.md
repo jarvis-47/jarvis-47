@@ -2,8 +2,8 @@
   <img src="https://github.com/jarvis-47/jarvis-47/blob/main/DisplayPic.png?raw=true" width="300" height="230"/>
 </div>
 
-# PARAMPREET SINGH 🚀 Data Scientist | MSCS Candidate
-📍 Location: Clemson, SC, USA
+# PARAMPREET SINGH 🚀 Data Scientist
+📍 Location: USA
 🔗 LinkedIn: parampreetsingh12598
 💼 GitHub: jarvis-47
 📩 Email: paramps@g.clemson.edu
