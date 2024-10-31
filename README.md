@@ -15,11 +15,6 @@ Hello, World! I'm Parampreet, an enthusiastic MSCS Candidate from Clemson Univer
 **Clemson University**: Pursuing Master's in Computer Science with a keen focus on Statistics, Machine Learning and Artificial Intelligence.<br>
 **Punjab Engineering College**: B.Tech in Mechanical Engineering. Led capstone project on Multi-Sensor Fusion for Adaptive Cruise Control.<br>
 
-## 💼 Professional Experience
-**IT Consultant at Clemson University**: Championed IT asset management database migrations and spearheaded IT asset inventory procedures.<br>
-**Assistant Manager, R&D at Maruti Suzuki India Ltd**: Drove business strategies, conducted market research, and led the development of a second-hand car value prediction model.<br>
-**Research Intern at Mahindra Research Valley**: Innovated in power loss distribution in automotive rear axles, achieving notable fuel efficiency gains.
-
 ## 🚀 Highlighted Projects
 **Movie Recommender System**: Personalized movie recommendation engine with a focus on Matrix Factorization techniques and tackling cold start problems.<br>
 **Continuous Affect Recognition**: Deep learning model predicting emotional metrics in videos through joint training of audio and video features.<br>
